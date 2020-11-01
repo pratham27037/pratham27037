@@ -1,15 +1,20 @@
-### Hi there 👋 Pratham here
+### Hi there 👋 Pratham here 😎
 
-Here are some ideas to get you started:
+I am currently a Computer science student exploring different technologies 😊
 
-- 🔭 I’m currently working on ... node.js
-- 🌱 I’m currently learning ...web development
+- 🔭 I’m currently working on ... flutter ,node.js, react, MERN stack
+- 🌱 I’m currently learning ...web development and coding
 - 👯 I’m looking to collaborate on ... web
 - 🤔 I’m looking for help with ...cloud
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...prathamaog@gmail.com
-- 😄 Pronouns: ...HE/Him
+- 😄 Pronouns: ... HE/Him
 - ⚡ Fun fact: ...Programming is 10% code rest 90% is debugging
--->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pratham27037&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f&count_private=true" width="100%"/>
+### Technologies and languages known:
+C, C++, python, javascript, dart, nodejs, flutter, sql, github
+
+<br>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pratham27037&&show_icons=true&title_color=7ac7c4&icon_color=c4edde&text_color=f73859&bg_color=0a192f&count_private=true" width="100%"/>
