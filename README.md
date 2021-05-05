@@ -13,6 +13,9 @@ I am currently a Computer science student exploring different technologies 😊
 
 ### Technologies and languages known:
 C, C++, python, javascript, dart, nodejs, flutter, sql, github
+<br>
+<br>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratham27037&layout=compact&langs_count=8&theme=algolia"/>
 
 <br>
 <br>
