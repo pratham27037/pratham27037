@@ -1,10 +1,10 @@
 ### Hi there 👋 Pratham here 😎
 
-I am currently a Computer science student exploring different technologies 😊
+I am currently a Software developer exploring different technologies 😊
 
-- 🔭 I’m currently working on ... flutter ,node.js, react, MERN stack
-- 🌱 I’m currently learning ...web development and coding
-- 👯 I’m looking to collaborate on ... web
+- 🔭 I’m currently working on ... JAVA , SpringBoot ,MERN stack
+- 🌱 I’m currently Exploring ...Cloud
+- 👯 I’m looking to collaborate on ... Development Projects
 - 🤔 I’m looking for help with ...cloud
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...prathamaog@gmail.com
@@ -12,7 +12,7 @@ I am currently a Computer science student exploring different technologies 😊
 - ⚡ Fun fact: ...Programming is 10% code rest 90% is debugging
 
 ### Technologies and languages known:
-C, C++, python, javascript, dart, nodejs, flutter, sql, github
+Java, Spring boot , Mern Stack , C++
 <br>
 <br>
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratham27037&layout=compact&langs_count=8&theme=algolia"/>
